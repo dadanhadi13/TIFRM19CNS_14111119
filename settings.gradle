@@ -1,0 +1,2 @@
+rootProject.name = "TIFRM19CNS_14111119"
+include ':app'
